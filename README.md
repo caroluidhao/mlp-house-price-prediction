@@ -10,14 +10,14 @@
    - ~~Apply one-hot encoding to categorical features~~
    - ~~Split data into training and testing sets~~
 
-- MODEL ARCHITECTURE
+- ~~MODEL ARCHITECTURE~~
    - ~~Define network parameters~~
    - ~~Define network structure~~
-   - Define learning rate with different decaying methods
+   - ~~Define learning rate with different decaying methods~~
    - ~~Set up cost, optimizer, and accuracy function with different configurations~~
    - ~~Define model execution~~
    - ~~Visualize evolution of training and testing MSE through epoch iteration~~
-   - Visualize evolution of learning rate
+   - ~~Visualize evolution of learning rate~~
 
 - OTHERS [OPTIONAL]
    - Add log and summary writer
