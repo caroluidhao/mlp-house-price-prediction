@@ -54,8 +54,8 @@ If you want to try this program, download this repo and launch jupyter to run it
    - ~~Visualize evolution of training and testing MSE through epoch iteration~~
    - ~~Visualize evolution of learning rate~~
 
-- OTHERS [OPTIONAL]
+- ~~OTHERS [OPTIONAL]~~
    - ~~Update README file~~
-   - Add log and summary writer
-   - Add Tensorboard visualization
-   - Add checkpoints for model restoration
+   - ~~Add log and summary writer~~
+   - ~~Add Tensorboard visualization~~
+   - ~~Add checkpoints for model restoration~~
